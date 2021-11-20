@@ -1,5 +1,3 @@
-import { getAllJSDocTagsOfKind } from "typescript"
-
 const persons = ["Ninski_ist_dumm", "Robert_ist_schlau", "Lillski", "Jaseski"]
 const wichtelMap = new Map<number, number>()
 const personsMap = new Map<string, number>()
